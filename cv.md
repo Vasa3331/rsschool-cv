@@ -10,7 +10,7 @@
 * Codewars: [vasa3331](https://www.codewars.com/users/vasa3331)
 
 ## Summary
-<font size = 1>At the moment I work in the representative office of a European pharmaceutical company as a drug registration specialist. My goal is to learn everything new and exciting.I want to get knowledge and skills that will be enough for employment in an IT-company. I think it will be a positive change in my life.
+<font size = 1>At the moment I work in the representative office of a European pharmaceutical company as a drug registration specialist. My goal is to learn everything new and exciting. I want to get knowledge and skills that will be enough for employment in an IT-company. I think it will be a positive change in my life.
 
 ## Skills
 * HTML
@@ -33,7 +33,7 @@ For example:
 ```
 Because 2 is the 4th number in the Fibonacci Sequence.
 For reference, the first two numbers in the Fibonacci sequence are 0 and 1, and each subsequent number is the sum of the previous two.
-
+My solution:
 ```
 function nthFibo(n) {
   let arr = [0, 1, 1];
@@ -61,7 +61,7 @@ I have no experience in JS and Frontend development.</font>
 ## Languages
 * Russian - Native
 * Belorussian - Native
-* English - B1 INTERMEDIATE/B2 UPPER INTERMEDIATE((according to the online test at EFset [www.efset.org](https://www.efset.org/)).
+* English - B1 INTERMEDIATE/B2 UPPER INTERMEDIATE(according to the online test at EFset [www.efset.org](https://www.efset.org/)).
 
 
 
