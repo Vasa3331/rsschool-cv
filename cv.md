@@ -27,13 +27,13 @@
 ## Code example:
 <font size = 3>N-th Fibonacci KATA from CODEWARS: I love Fibonacci numbers in general, but I must admit I love some more than others.
 I would like for you to write me a function that when given a number (n) returns the n-th number in the Fibonacci Sequence.
-For example:
+For example:</font>
 ```
    nthFibo(4) == 2
 ```
-Because 2 is the 4th number in the Fibonacci Sequence.
+<font size = 3>Because 2 is the 4th number in the Fibonacci Sequence.
 For reference, the first two numbers in the Fibonacci sequence are 0 and 1, and each subsequent number is the sum of the previous two.
-My solution:
+My solution:</font>
 ```
 function nthFibo(n) {
   let arr = [0, 1, 1];
@@ -43,7 +43,6 @@ function nthFibo(n) {
   return arr[n - 1];
 }
 ```
-</font>
 
 ## Education
 * Educational organization: Belarusian State University, Minsk.
