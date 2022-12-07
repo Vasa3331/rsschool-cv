@@ -10,7 +10,7 @@
 * Codewars: [vasa3331](https://www.codewars.com/users/vasa3331)
 
 ## Summary
-<font size = 1>At the moment I work in the representative office of a European pharmaceutical company as a drug registration specialist. My goal is to learn everything new and exciting. I want to get knowledge and skills that will be enough for employment in an IT-company. I think it will be a positive change in my life.
+<font size = 3>At the moment I work in the representative office of a European pharmaceutical company as a drug registration specialist. My goal is to learn everything new and exciting. I want to get knowledge and skills that will be enough for employment in an IT-company. I think it will be a positive change in my life.</font>
 
 ## Skills
 * HTML
@@ -25,7 +25,7 @@
 * Editors: VSCode, PyCharm,  IntelliJ IDEA 
 
 ## Code example:
-N-th Fibonacci KATA from CODEWARS: I love Fibonacci numbers in general, but I must admit I love some more than others.
+<font size = 3>N-th Fibonacci KATA from CODEWARS: I love Fibonacci numbers in general, but I must admit I love some more than others.
 I would like for you to write me a function that when given a number (n) returns the n-th number in the Fibonacci Sequence.
 For example:
 ```
@@ -43,6 +43,7 @@ function nthFibo(n) {
   return arr[n - 1];
 }
 ```
+</font>
 
 ## Education
 * Educational organization: Belarusian State University, Minsk.
@@ -56,7 +57,7 @@ Name of course: Magistracy.
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ## Experience
-I have no experience in JS and Frontend development.</font>
+<font size = 3>I have no experience in JS and Frontend development.</font>
 
 ## Languages
 * Russian - Native
