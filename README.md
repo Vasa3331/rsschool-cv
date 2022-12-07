@@ -1,1 +1,1 @@
-[](https://vasa3331.github.io/rsschool-cv/cv)
+[rssschool-cv](https://vasa3331.github.io/rsschool-cv/cv)
